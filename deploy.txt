@@ -6,4 +6,4 @@ fifth line of deploy.txt
 third line of deploy,txt
 fourth line of deploy.txt
 >>>>>>> feature-branch
-
+sixth line
